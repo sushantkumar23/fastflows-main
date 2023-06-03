@@ -4,16 +4,16 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'FastFlows | Create flows in seconds',
+  title: 'FlowBolo | Create flows in seconds',
   description:
-    'FastFlows is a no-code platform to create flows in seconds. It is the easiest way to automate your business processes.',
+    'FlowBolo is a no-code platform to create flows in seconds. It is the easiest way to automate your business processes.',
   openGraph: {
     type: 'website',
     locale: 'en_IN',
-    url: 'https://fastflows.ai',
-    title: 'FastFlows | Create flows in seconds',
+    url: 'https://www.flowbolo.com',
+    title: 'FastBolo | Create flows in seconds',
     description:
-      'FastFlows is a no-code platform to create flows in seconds. It is the easiest way to automate your business processes.',
+      'FlowBolo is a no-code platform to create flows in seconds. It is the easiest way to automate your business processes.',
   },
 }
 
