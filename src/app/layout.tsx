@@ -11,7 +11,7 @@ export const metadata = {
     type: 'website',
     locale: 'en_IN',
     url: 'https://www.flowbolo.com',
-    title: 'FastBolo | Create flows in seconds',
+    title: 'FlowBolo | Create flows in seconds',
     description:
       'FlowBolo is a no-code platform to create flows in seconds. It is the easiest way to automate your business processes.',
   },

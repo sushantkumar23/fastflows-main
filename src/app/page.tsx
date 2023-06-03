@@ -1,7 +1,6 @@
 'use client'
 
 import Link from 'next/link'
-import { useState } from 'react'
 import { APP_BASE_URL } from '@/config'
 
 const navigation = [
@@ -63,10 +62,10 @@ export default function Example() {
           <div className="hidden sm:mb-8 sm:flex sm:justify-center"></div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-              Flow diagrams and charts with hands tied and eyes closed
+              Flow diagrams and charts with your hands tied & eyes closed
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              Text2Flow harnesses the power of advanced AI to interpret your
+              Voice2Flow harnesses the power of advanced AI to interpret your
               descriptions, recognizing the intricate connections and processes
               that make up your ideal flowchart.
             </p>
