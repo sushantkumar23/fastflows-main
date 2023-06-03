@@ -1,1 +1,1 @@
-export const APP_BASE_URL = "https://fastflows-app.vercel.app"
+export const APP_BASE_URL = 'https://app.flowbolo.com'
