@@ -21,7 +21,7 @@ export default function Example() {
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
-              <h2 className="text-2xl font-bold">flowbolo</h2>
+              <h2 className="text-2xl font-bold text-white">flowbolo</h2>
             </a>
           </div>
           <div className="hidden lg:flex lg:gap-x-12">
